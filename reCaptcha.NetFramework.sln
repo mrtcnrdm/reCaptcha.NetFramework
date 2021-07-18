@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reCaptcha.NetFramework", "reCaptcha.NetFramework\reCaptcha.NetFramework.csproj", "{632EFE71-CEC4-4817-9DA9-02B226408842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{632EFE71-CEC4-4817-9DA9-02B226408842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632EFE71-CEC4-4817-9DA9-02B226408842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632EFE71-CEC4-4817-9DA9-02B226408842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632EFE71-CEC4-4817-9DA9-02B226408842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EAB1F63-6519-4115-8928-A745B5B6AB22}
+	EndGlobalSection
+EndGlobal
